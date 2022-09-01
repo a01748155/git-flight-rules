@@ -139,6 +139,7 @@ All commands should work for at least git version 2.13.0. See the [git website](
     - [Git Bash](#git-bash)
     - [PowerShell on Windows](#powershell-on-windows)
 - [Other Resources](#other-resources)
+https://devcloud.intel.com/oneapi/get_started/
   - [Books](#books)
   - [Tutorials](#tutorials)
   - [Scripts and Tools](#scripts-and-tools)
